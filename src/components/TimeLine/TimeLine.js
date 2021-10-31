@@ -7,7 +7,7 @@ import { TimeLineData } from '../../constants/constants';
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
 
 const Timeline = () => {
-    
+
   const [activeItem, setActiveItem] = useState(0);
   const carouselRef = useRef();
 
@@ -47,7 +47,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am current a Y2 Computer Science student at National University of Singapore.
+        I am a Y2 Computer Science student at National University of Singapore.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
