@@ -31,6 +31,14 @@ const Header = () =>  (
         </Link>
       </li>
     </Div2>
+    <Div3>
+      <SocialIcons href= "https://github.com/erwinqxy">
+        <AiFillGithub size="2rem" />
+      </SocialIcons>
+      <SocialIcons href= "https://www.linkedin.com/in/erwin-quek-3ab0831a8/">
+        <AiFillLinkedin size="2rem" />
+      </SocialIcons>
+    </Div3>
   </Container>
 );
 
