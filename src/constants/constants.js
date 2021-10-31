@@ -47,9 +47,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 'Dec 2019', text: 'Developed an interest in programming', },
-  { year: 'Aug 2020', text: 'Matriculated into School of Computing in National Singapore', },
-  { year: 'June 2021', text: 'Embarked on Orbital-Apollo11 Project', },
-  { year: 'July 2021', text: 'Participated in DSTA CodeEXP hackathon', },
-  { year: 'July 2021', text: 'Participated in NUS LifeHack 2021 [2nd Prize]', },
+  { year: '2019', text: 'Developed an interest in programming', },
+  { year: '2020', text: 'Matriculated into School of Computing in National Singapore', },
+  { year: '2021', text: 'Embarked on Orbital-Apollo11 Project', },
+  { year: '2021', text: 'Participated in DSTA CodeEXP hackathon', },
+  { year: '2021', text: 'Participated in NUS LifeHack 2021 [2nd Prize]', },
 ];
