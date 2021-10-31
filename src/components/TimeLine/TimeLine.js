@@ -47,7 +47,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a Y2 Computer Science student at National University of Singapore.
+        Hi! I am Erwin Quek, a Y2 Computer Science student at National University of Singapore. <br /> 
+        
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
