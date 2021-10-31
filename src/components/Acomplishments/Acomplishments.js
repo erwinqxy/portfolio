@@ -4,7 +4,7 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: '2nd Prize', text: 'Lifehack 2021'},
+  { number: '2nd Prize', text: 'Lifehack 2021', link: 'View more: https://lifehack.nuscomputing.com/'},
 ];
 
 const Acomplishments = () => (
@@ -15,6 +15,7 @@ const Acomplishments = () => (
         <Box key={index}>
           <BoxNum>{card.number}</BoxNum>
           <BoxText>{card.text}</BoxText>
+          <BoxText>{card.link}</BoxText>
         </Box>
       ))}
     </Boxes>

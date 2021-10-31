@@ -4,8 +4,8 @@ export const projects = [
     description: "Written in Java. Libraries used: JavaFX, Jackson, JSON In Java, opencsv, JUnit", 
       image: '/images/Ui1_v1.3.1.png',
       tags: ['Java', 'JavaFx', 'Junit', 'Json', 'opencsv'],
-    source: 'https://github.com/AY2122S1-CS2103-F09-3/tp',
     visit: 'https://github.com/AY2122S1-CS2103-F09-3/tp',
+    source: 'https://ay2122s1-cs2103-f09-3.github.io/tp/',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description:"Ever wondered how technology will revolutionise our education and social interactions? Mediate, Media to Educate, enables people to generate AI videos with faces given text and a video with a face!",
     image: '/images/lifehack.png',
     tags: ['aws', 'aws-lambda', 'react', 'vercel'],
-    source: ' mediate.vercel.app',
-    visit: 'https://devpost.com/software/mediate-bouafk?ref_content=user-portfolio&ref_feature=in_progress',
+    visit: 'https://github.com/AllardQuek/MediaTE',
+    source: 'https://devpost.com/software/mediate-bouafk?ref_content=user-portfolio&ref_feature=in_progress',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "Duke, a Personal Assistant Chatbot aims to help a person to keep track of various things.",
       image: '/images/ip.png',
       tags: ['Java', 'JavaFx', 'Junit', 'Chatbot'], 
-    source: 'https://github.com/erwinqxy/ip',
-    visit: 'https://erwinqxy.github.io/ip/',
+    visit: 'https://github.com/erwinqxy/ip',
+    source: 'https://erwinqxy.github.io/ip/',
     id: 2,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/orbital.png',
     tags: ['Python', 'Django', 'html', 'Javascript', 'css', 'heroku'],
     source: 'https://www.youtube.com/watch?v=f47M37MsqGI&ab_channel=NUSOrbital',
-    visit: 'http://msbud.herokuapp.com/',
+    visit: 'https://github.com/leezhixuan/Orbital-Epsilon',
     id: 3,
   },
   {
@@ -40,16 +40,16 @@ export const projects = [
     description: "A React Native mobile app for home-based businesses in Singapore to market their products to consumers. Users will not only be able to make purchases with those who live within their neighbourhood (Neighbourhood Buy) but also optionally facilitate deliveries to those in their group (Neighbourhood Delivery).",
     image: '/images/foodome.png',
     tags: ['React', 'React', 'Mobile App'],
-    source: 'https://github.com/AllardQuek/Foodome',
-    visit: 'https://youtu.be/HBTLbBTkt0M',
+    visit: 'https://github.com/AllardQuek/Foodome',
+    source: 'https://youtu.be/HBTLbBTkt0M',
     id: 4,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: 'Grew an interest in programming', },
-  { year: 2019, text: 'Matriculated into School of Computing in National Singapore', },
-  { year: 2021, text: 'Embarked on Orbital-Apollo11 Project', },
-  { year: 2021, text: 'Participated in DSTA CodeEXP hackathon', },
-  { year: 2021, text: 'Participated in NUS LifeHack 2021 [2nd Prize]', },
+  { year: 'Dec 2019', text: 'Developed an interest in programming', },
+  { year: 'Aug 2020', text: 'Matriculated into School of Computing in National Singapore', },
+  { year: 'June 2021', text: 'Embarked on Orbital-Apollo11 Project', },
+  { year: 'July 2021', text: 'Participated in DSTA CodeEXP hackathon', },
+  { year: 'July 2021', text: 'Participated in NUS LifeHack 2021 [2nd Prize]', },
 ];

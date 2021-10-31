@@ -13,10 +13,10 @@ const Hero = (props) => (
         My Personal Porfolio
       </SectionTitle>
       <SectionText>
-        I am a full stack developer with a passion for creating beautiful and
+        I am a student developer with a passion for creating meaingful applications and
         intuitive user experiences. 
       </SectionText>
-      <Button onClick = {() => window.location = "https://drive.google.com/file/d/1tkgYEzQLdQT3SS5zU8kIHE1WEma58JAu/view?usp=sharing"}> Download Resume </Button>
+      <Button onClick = {() => window.location = "https://drive.google.com/file/d/1tkgYEzQLdQT3SS5zU8kIHE1WEma58JAu/view?usp=sharing"}>Resume</Button>
     </LeftSection>
   </Section>
 );
