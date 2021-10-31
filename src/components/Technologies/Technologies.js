@@ -15,7 +15,6 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with: <br />
             React <br />
             JavaScript <br />
             HTML, CSS <br />
@@ -27,7 +26,6 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>BackEnd-End</ListTitle>
           <ListParagraph>
-            Experience with: <br />
             Python, Django <br />
             Java <br />
             SQL, pgSQL <br />
@@ -40,7 +38,6 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with: <br />
             Figma, Miro <br />
           </ListParagraph>        
         </ListContainer>
