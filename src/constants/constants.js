@@ -47,9 +47,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2019, text: 'Grew an interest in programming', },
+  { year: 2019, text: 'Matriculated into School of Computing in National Singapore', },
+  { year: 2021, text: 'Embarked on Orbital-Apollo11 Project', },
+  { year: 2021, text: 'Participated in DSTA CodeEXP hackathon', },
+  { year: 2021, text: 'Participated in NUS LifeHack 2021 [2nd Prize]', },
 ];
