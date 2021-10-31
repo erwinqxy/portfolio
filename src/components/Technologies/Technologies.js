@@ -23,7 +23,7 @@ const Technologies = () =>  (
       <ListItem>
         <DiPython size="5rem"/>
         <ListContainer>
-          <ListTitle>BackEnd-End</ListTitle>
+          <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Python, Django <br />
             Java <br />
