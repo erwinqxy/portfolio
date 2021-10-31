@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'LifeHack 2021 MediaTe [Hackathon- 2nd Prize]',
+    title: 'LifeHack 2021 MediaTe [Hackathon]',
     description:"Ever wondered how technology will revolutionise our education and social interactions? Mediate, Media to Educate, enables people to generate AI videos with faces given text and a video with a face!",
     image: '/images/lifehack.png',
     tags: ['aws', 'aws-lambda', 'react', 'vercel'],
