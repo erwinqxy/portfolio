@@ -6,10 +6,23 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 
 const Footer = () => {
   return (
-    <div>
-      Footer
-    </div>
-  );
+    <FooterWrapper>
+      <LinkList>
+        <LinkColumn>
+          <LinkTitle>Email</LinkTitle>
+          <LinkItem href="mailto:erwin.quek.xian.yi@gmail.com">erwin.quek.xian.yi@gmail.com</LinkItem>
+        </LinkColumn>
+      </LinkList>
+      <SocialContainer>
+      <SocialIcons href= "https://github.com/erwinqxy">
+        <AiFillGithub size="2rem" />
+      </SocialIcons>
+      <SocialIcons href= "https://www.linkedin.com/in/erwin-quek-3ab0831a8/">
+        <AiFillLinkedin size="2rem" />
+      </SocialIcons>
+      </SocialContainer>
+    </FooterWrapper>
+  )
 };
 
 export default Footer;
