@@ -16,7 +16,7 @@ const Hero = (props) => (
         I am a student developer with a passion for creating meaingful applications and
         intuitive user experiences. 
       </SectionText>
-      <Button onClick = {() => window.location = "https://drive.google.com/file/d/1tkgYEzQLdQT3SS5zU8kIHE1WEma58JAu/view?usp=sharing"}>Resume</Button>
+      <Button onClick = {() => window.location = "https://drive.google.com/file/d/1rrWq3tQQlyFxrN-oUNoD9zuZnwci4ODb/view?usp=sharing"}>Resume</Button>
     </LeftSection>
   </Section>
 );
