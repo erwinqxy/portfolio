@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'CS2103 SWE Project [In progress]',
+    title: 'CS2103 SWE Project',
     description: "Written in Java. Libraries used: JavaFX, Jackson, JSON In Java, opencsv, JUnit", 
       image: '/images/Ui1_v1.3.1.png',
       tags: ['Java', 'JavaFx', 'Junit', 'Json', 'opencsv'],
@@ -18,13 +18,22 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Office Booking System',
+    description: "Implement a booking system with pandemic constraint. Eg with contact tracing.",
+      image: '/images/ip.png',
+      tags: ['DBMS', 'SQL', 'Postgres'], 
+    visit: 'https://github.com/erwinqxy/CS2102-Grp80-1',
+    source: 'https://drive.google.com/file/d/1mVIK-tKai4PCpSJd27QaK-J59BLB4BpU/view?usp=sharing',
+    id: 2,
+  },
+  {
     title: 'Duke Chatbot [2021]',
     description: "Duke, a Personal Assistant Chatbot aims to help a person to keep track of various things.",
       image: '/images/ip.png',
       tags: ['Java', 'JavaFx', 'Junit', 'Chatbot'], 
     visit: 'https://github.com/erwinqxy/ip',
     source: 'https://erwinqxy.github.io/ip/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'My Study buddy [NUS Orbital 2021]',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['Python', 'Django', 'html', 'Javascript', 'css', 'heroku'],
     source: 'https://www.youtube.com/watch?v=f47M37MsqGI&ab_channel=NUSOrbital',
     visit: 'https://github.com/leezhixuan/Orbital-Epsilon',
-    id: 3,
+    id: 4,
   },
   {
     title: 'CodeEXP 2021 Foodome [Hackathon]',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['React', 'React', 'Mobile App'],
     visit: 'https://github.com/AllardQuek/Foodome',
     source: 'https://www.youtube.com/watch?v=iAKDFg2G8M8&ab_channel=AllardQuek',
-    id: 4,
+    id: 5,
   },
 ];
 
