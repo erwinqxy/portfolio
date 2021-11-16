@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'CS2103 SWE Project',
+    title: 'CS2103 SWE Project [2021]',
     description: "Written in Java. Libraries used: JavaFX, Jackson, JSON In Java, opencsv, JUnit", 
       image: '/images/Ui1_v1.3.1.png',
       tags: ['Java', 'JavaFx', 'Junit', 'Json', 'opencsv'],
@@ -18,7 +18,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Office Booking System',
+    title: 'Office Booking System [2021]',
     description: "Implement a booking system with pandemic constraint. Eg with contact tracing.",
       image: '/images/dbms.png',
       tags: ['DBMS', 'SQL', 'Postgres'], 
