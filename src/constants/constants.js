@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Duke Chatbot [2021]',
     description: "Duke, a Personal Assistant Chatbot aims to help a person to keep track of various things.",
-      image: '/images/ip.png',
+      image: '/images/duke.png',
       tags: ['Java', 'JavaFx', 'Junit', 'Chatbot'], 
     visit: 'https://github.com/erwinqxy/ip',
     source: 'https://erwinqxy.github.io/ip/',
