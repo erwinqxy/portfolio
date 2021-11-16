@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'My Study buddy [NUS Orbital 2021]',
     description: "Aim: A platform that allows NUS students to come together to create a more conducive environment while providing an engaging experience in light of the pandemic.",
-    image: '/images/orbital.png',
+    image: '/images/msbud.png',
     tags: ['Python', 'Django', 'html', 'Javascript', 'css', 'heroku'],
     source: 'https://www.youtube.com/watch?v=f47M37MsqGI&ab_channel=NUSOrbital',
     visit: 'https://github.com/leezhixuan/Orbital-Epsilon',
