@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Office Booking System',
     description: "Implement a booking system with pandemic constraint. Eg with contact tracing.",
-      image: '/images/ip.png',
+      image: '/images/DBMS.png',
       tags: ['DBMS', 'SQL', 'Postgres'], 
     visit: 'https://github.com/erwinqxy/CS2102-Grp80-1',
     source: 'https://drive.google.com/file/d/1mVIK-tKai4PCpSJd27QaK-J59BLB4BpU/view?usp=sharing',
