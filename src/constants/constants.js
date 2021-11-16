@@ -41,7 +41,7 @@ export const projects = [
     image: '/images/foodome.png',
     tags: ['React', 'React', 'Mobile App'],
     visit: 'https://github.com/AllardQuek/Foodome',
-    source: 'https://youtu.be/HBTLbBTkt0M',
+    source: 'https://www.youtube.com/watch?v=iAKDFg2G8M8&ab_channel=AllardQuek',
     id: 4,
   },
 ];
